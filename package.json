@@ -1,5 +1,5 @@
 {
-  "name": "mcp-oauth-auth0",
+  "name": "mcp-oauth-auth0-template",
   "type": "module",
   "version": "1.0.0",
   "description": "MCP server template with Auth0 OAuth authentication",
